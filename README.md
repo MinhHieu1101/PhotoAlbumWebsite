@@ -1,4 +1,5 @@
 Cloud Computing Architecture (COS20019)
+
 Swinburne University of Technology (Vietnam)
 
 ▪  Photo Album Website
